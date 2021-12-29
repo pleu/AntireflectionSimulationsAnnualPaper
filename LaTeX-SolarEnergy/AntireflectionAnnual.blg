@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AntireflectionAnnual.aux
+The style file: elsarticle-num.bst
+Database file #1: LAMPPapers.bib
+Database file #2: AllRefs.bib
+You've used 12 entries,
+            2937 wiz_defined-function locations,
+            772 strings with 8713 characters,
+and the built_in function-call counts, 4045 in all, are:
+= -- 388
+> -- 162
+< -- 0
++ -- 62
+- -- 50
+* -- 368
+:= -- 586
+add.period$ -- 20
+call.type$ -- 12
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 112
+empty$ -- 423
+format.name$ -- 60
+if$ -- 1010
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 12
+newline$ -- 61
+num.names$ -- 11
+pop$ -- 80
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 203
+stack$ -- 0
+substring$ -- 185
+swap$ -- 36
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 23
+width$ -- 14
+write$ -- 128

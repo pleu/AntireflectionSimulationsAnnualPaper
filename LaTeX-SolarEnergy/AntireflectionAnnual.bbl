@@ -1,0 +1,105 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Haghanifar:20}
+S.~Haghanifar, M.~McCourt, B.~Cheng, J.~Wuenschell, P.~Ohodnicki, P.~W. Leu,
+  \href{http://www.osapublishing.org/optica/abstract.cfm?URI=optica-7-7-784}{Discovering
+  high-performance broadband and broad angle antireflection surfaces by machine
+  learning}, Optica 7~(7) (2020) 784--789.
+\newblock \href {http://dx.doi.org/10.1364/OPTICA.387938}
+  {\path{doi:10.1364/OPTICA.387938}}.
+\newline\urlprefix\url{http://www.osapublishing.org/optica/abstract.cfm?URI=optica-7-7-784}
+
+\bibitem{Han:19}
+G.~S. Han, S.~Lee, M.~L. Duff, F.~Qin, M.~Jiang, G.~Li, J.-K. Lee,
+  \href{https://www.sciencedirect.com/science/article/pii/S0378775319307396}{Multi-functional
+  transparent electrode for reliable flexible perovskite solar cells}, Journal
+  of Power Sources 435 (2019) 226768.
+\newblock \href {http://dx.doi.org/10.1016/j.jpowsour.2019.226768}
+  {\path{doi:10.1016/j.jpowsour.2019.226768}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0378775319307396}
+
+\bibitem{Haghanifar:20nov}
+S.~Haghanifar, A.~J. Galante, P.~W. Leu,
+  \href{https://doi.org/10.1021/acsnano.0c06452}{Challenges and {Prospects} of
+  {Bio}-{Inspired} and {Multifunctional} {Transparent} {Substrates} and
+  {Barrier} {Layers} for {Optoelectronics}}, ACS Nano 14~(12) (2020)
+  16241--16265, publisher: American Chemical Society.
+\newblock \href {http://dx.doi.org/10.1021/acsnano.0c06452}
+  {\path{doi:10.1021/acsnano.0c06452}}.
+\newline\urlprefix\url{https://doi.org/10.1021/acsnano.0c06452}
+
+\bibitem{Haghanifar:19}
+S.~Haghanifar, M.~McCourt, B.~Cheng, J.~Wuenschell, P.~Ohodnicki, a.~P.~W. Leu,
+  Creating glasswing butterfly-inspired durable antifogging superomniphobic
+  supertransmissive, superclear nanostructured glass through {Bayesian}
+  learning and optimization,, Materials Horizons\href {http://dx.doi.org/doi:
+  10.1039/C9MH00589G} {\path{doi:doi: 10.1039/C9MH00589G}}.
+
+\bibitem{Haghanifar:17}
+S.~Haghanifar, T.~Gao, R.~T. R.~D. Vecchis, B.~Pafchek, T.~D.~B. Jacobs, P.~W.
+  Leu,
+  \href{Https://Www.Osapublishing.Org/Optica/Abstract.Cfm?Uri=Optica-4-12-1522}{Ultrahigh-transparency,
+  ultrahigh-haze nanograss glass with fluid-induced switchable haze}, Optica
+  4~(12) (2017) 1522--1525.
+\newblock \href {http://dx.doi.org/10.1364/OPTICA.4.001522}
+  {\path{doi:10.1364/OPTICA.4.001522}}.
+\newline\urlprefix\url{Https://Www.Osapublishing.Org/Optica/Abstract.Cfm?Uri=Optica-4-12-1522}
+
+\bibitem{Infante:13}
+D.~Infante, K.~W. Koch, P.~Mazumder, L.~Tian, A.~Carrilero, D.~Tulli, D.~Baker,
+  V.~Pruneri,
+  \href{https://link.springer.com/article/10.1007/s12274-013-0320-z}{Durable,
+  superhydrophobic, antireflection, and low haze glass surfaces using scalable
+  metal dewetting nanostructuring}, Nano Research 6~(6) (2013) 429--440.
+\newblock \href {http://dx.doi.org/10.1007/s12274-013-0320-z}
+  {\path{doi:10.1007/s12274-013-0320-z}}.
+\newline\urlprefix\url{https://link.springer.com/article/10.1007/s12274-013-0320-z}
+
+\bibitem{Bolinger:20}
+M.~Bolinger, J.~Seel, D.~Robson, C.~Warner,
+  \href{https://www.osti.gov/biblio/1706670}{Utility-{Scale} {Solar} {Data}
+  {Update}: 2020 {Edition}}, Tech. rep., Lawrence Berkeley National Lab.
+  (LBNL), Berkeley, CA (United States) (Nov. 2020).
+\newblock \href {http://dx.doi.org/10.2172/1706670}
+  {\path{doi:10.2172/1706670}}.
+\newline\urlprefix\url{https://www.osti.gov/biblio/1706670}
+
+\bibitem{Liang:14}
+B.~Liang, M.~Bai, H.~Ma, N.~Ou, J.~Miao, Wideband {Analysis} of {Periodic}
+  {Structures} at {Oblique} {Incidence} by {Material} {Independent} {FDTD}
+  {Algorithm}, IEEE Transactions on Antennas and Propagation 62~(1) (2014)
+  354--360, conference Name: IEEE Transactions on Antennas and Propagation.
+\newblock \href {http://dx.doi.org/10.1109/TAP.2013.2287896}
+  {\path{doi:10.1109/TAP.2013.2287896}}.
+
+\bibitem{Sharma:21}
+S.~P. Sharma, P.~W. Leu,
+  \href{https://www.spiedigitallibrary.org/journals/journal-of-photonics-for-energy/volume-11/issue-4/045501/Solar-module-orientation-and-tracking-type-performance-and-optimization/10.1117/1.JPE.11.045501.full}{Solar
+  module orientation and tracking type performance and optimization}, Journal
+  of Photonics for Energy 11~(4) (2021) 045501, publisher: SPIE.
+\newblock \href {http://dx.doi.org/10.1117/1.JPE.11.045501}
+  {\path{doi:10.1117/1.JPE.11.045501}}.
+\newline\urlprefix\url{https://www.spiedigitallibrary.org/journals/journal-of-photonics-for-energy/volume-11/issue-4/045501/Solar-module-orientation-and-tracking-type-performance-and-optimization/10.1117/1.JPE.11.045501.full}
+
+\bibitem{AM1p5}
+\href{https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html}{Reference
+  {Air} {Mass} 1.5 {Spectra}} (2020).
+\newline\urlprefix\url{https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html}
+
+\bibitem{Meinel:76}
+A.~B. Meinel, Applied {Solar} {Energy}: {An} {Introduction}, Addison-Wesley,
+  Reading, 1976.
+
+\bibitem{Duffie:13}
+J.~A. Duffie, W.~A. Beckman,
+  \href{http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=1162079}{Solar
+  {Engineering} of {Thermal} {Processes}}, John Wiley \& Sons, Incorporated,
+  Somerset, UNITED STATES, 2013.
+\newline\urlprefix\url{http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=1162079}
+
+\end{thebibliography}
